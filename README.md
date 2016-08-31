@@ -11,4 +11,65 @@
 * Allows people to save money
 * Creates a sense of sharing
 
+## Application Usage Tutorial
+
+> On your browser type in https://helpinghands.herokuapp.com/
+
 ![](home.png)
+
+> Select category and/or zipcode and click OK
+
+![](home-cat-zipcode.png)
+
+> For the category and zipcode, application displays the available listings. The count besides Search Results shows number of available listings. The Google Map shows with markers, the location of the listings. Clicking individual marker, popups with address and a link to listing details.
+> Below the Google Map, the individual listings are also displayed.
+
+![](search-map-list.png)
+![](search-list.png)
+
+> Hover on the listing image and you will find image changing to yellow box with plus sign. Click the image.
+
+![](search-list-hover.png)
+
+> Clicking the image shows page with enlarged image of the listing and other information.
+
+![](search-list-details.png)
+
+> To create new listing, click Create Listing from Navigation menu.
+
+![](nav-create-listing.png)
+
+> If not logged in, the Account Sign In page is shown. If you have not created an account, the Account Sign Up page is shown.
+
+![](account-sign-in.png)
+![](account-sign-up.png)
+
+> After successfully logged in, Create Signin page is shown for creating a new listing.
+
+![](create-listing.png)
+
+> To delete existing listing, click Delete Listing from Navigation menu.
+
+![](nav-delete-listing.png)
+
+> Click Delete Listing, shows page with all the listings for the user.
+
+![](delete-listing.png)
+
+> To reach out to us, use Contact Us from Navigation menu. Entering information and submitting will send automatically an email with the entered information.
+
+![](contact-us.png)
+
+> Click SignOut to exit from signed in profile.
+
+![](signout.png)
+
+> You do not have to sign in to the profile to view listings of anyone.
+
+## Project Members
+* Gurjit Kaur
+* Anand Gopalakrishnan
+* David Li
+
+## License
+> Distributed under the open license.
