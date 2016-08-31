@@ -10,3 +10,5 @@
 * Reduces landfill waste
 * Allows people to save money
 * Creates a sense of sharing
+
+![](home.png)
